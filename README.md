@@ -8,7 +8,7 @@ This tool scrapes the latest headline from CNN World news (https://edition.cnn.c
 
 1. **Install dependencies**
     ```
-    pip install requests beautifulsoup4 lxml
+    python -m pip install requests beautifulsoup4 lxml
     ```
 
 2. **Run the scraper**
